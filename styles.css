@@ -1,0 +1,79 @@
+
+body {
+  background-color: #8A2BE2;
+  color: black;
+  font-family: Georgia, sans-serif;
+}
+
+.box {
+ background-color: #E22F2B;
+  border-radius: 10px;
+  padding: 15px;
+  width: 65%;
+  margin: 20px auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 70px;
+  text-transform: uppercase;
+  border-bottom: #83E22B solid 3px;
+  color: white;
+}
+
+h2 {
+  color: white;
+  border-bottom: 2px solid #83E22B;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 25px;
+  transform: capitalize;
+}
+.color-box {
+border: black 1px solid;
+margin: 5px auto auto;
+padding-left: 10px;
+}
+/*COLORS*/
+.purple {
+ background-color: #8A2BE2;
+border: black 1px solid;
+}
+
+.red {
+  background-color: #E22F2B;
+}
+
+.green {
+  background: #83E22B;
+}
+
+.blue {
+  background: #2BDFE2;
+}
+/* END COLORS*/
+
+/*FONTS*/
+.fonts-1 {
+  font-family: 'Playfair Display', sans-serif;
+}
+
+.fonts-3 {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.fonts > div, .text-styles > div {
+  background-color: #83E22B;
+  padding: 10px;
+  margin: 5px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+/* END FONTS*/
+
+/*TEXT STYLES*/
+.green-box {
+background-color: #83E22B;
+}
+/*END TEXT STYLES*/
